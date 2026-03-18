@@ -1,4 +1,4 @@
-# 💳 PayFlow – Fintech Payment Platform UI
+# 💳  Fintech Payment Platform UI
 
 A modern, high-performance **frontend web application** inspired by real-world fintech platforms like Cashfree Payments.
 This project focuses on building a **scalable, product-driven UI** with smooth animations and clean design.
