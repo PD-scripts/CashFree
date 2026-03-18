@@ -1,3 +1,14 @@
+## 📸 Preview
+
+<img width="1814" height="760" alt="image" src="https://github.com/user-attachments/assets/36c0ebe0-31dc-4c67-83e7-29ceabf2b131" />
+<img width="1704" height="768" alt="image" src="https://github.com/user-attachments/assets/f18bdebc-de84-4c60-8eb1-eb1aaf8b31b6" />
+<img width="1771" height="799" alt="image" src="https://github.com/user-attachments/assets/ed7745dc-70dc-4c99-a7e1-ec5a27765942" />
+<img width="1811" height="824" alt="image" src="https://github.com/user-attachments/assets/42ef67e5-e41b-4015-b2e8-f2193d3230a0" />
+
+
+
+
+---
 # 💳  Fintech Payment Platform UI
 
 A modern, high-performance **frontend web application** inspired by real-world fintech platforms like Cashfree Payments.
@@ -72,13 +83,7 @@ Instead of copying an existing website, this project focuses on:
 * Improving UI/UX with proper spacing and typography
 * Thinking beyond design → focusing on **product experience**
 
----
 
-## 📸 Preview
-
-(Add screenshots or demo link here)
-
----
 
 ## ⚡ Future Improvements
 
