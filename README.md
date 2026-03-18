@@ -97,15 +97,5 @@ This project demonstrates my ability to:
 * Think in terms of product and user experience
 * Write clean, maintainable, and scalable code
 
----
-
-## 📬 Contact
-
-If you'd like to collaborate or discuss opportunities:
-
-* LinkedIn: (your link)
-* Email: (your email)
-
----
 
 ⭐ If you found this project interesting, feel free to star it!
