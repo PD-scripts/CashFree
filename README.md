@@ -7,7 +7,7 @@ This project focuses on building a **scalable, product-driven UI** with smooth a
 
 ## 🚀 Overview
 
-PayFlow is a frontend-focused project that showcases how a modern payment platform presents its services, infrastructure, and developer tools.
+This is a frontend-focused project that showcases how a modern payment platform presents its services, infrastructure, and developer tools.
 
 The goal of this project was not just to replicate UI, but to **adapt a design system into a fintech product experience** — focusing on usability, scalability, and real-world relevance.
 
